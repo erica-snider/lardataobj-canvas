@@ -1,0 +1,14 @@
+parent		lardataobj-canvas
+defaultqual	e26
+
+product		version		qual		flags		<table_format=2>
+canvas		v3_17_01	-
+cetmodules	v3_27_04	-	only_for_build
+end_product_list
+
+qualifier	canvas	notes
+c14:debug	c14:debug
+c14:prof	c14:prof
+e26:debug	e26:debug
+e26:prof	e26:prof
+end_qualifier_list
